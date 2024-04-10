@@ -1,7 +1,7 @@
 # Analysis-of-Third-Party-Cookies-and-Requests-of-Top-1000-Sites
 
 **Description**  
-Almost every site asks you to accept their cookies. Most people accept them without thought. But what do these cookies actually do? With increasing concerns around trackers and privacy, I set out to identify the top 10 most common requests and cookies by searching through the top 1000 most frequented web sites and counting the number of occurances of each cookie. I consider a third-party entity one that does not share the same second-level domain as the intended site. For example, when visiting google.com, ads.google.com is not a third-party since it has the same second level domain (google) as google.com. However, doubleclick.net is considered a third-party to google.com.
+Everytime you access a website, it will usually ask you to accept their cookies. But what do these cookies actually do? With increasing concerns around trackers and privacy, I wanted to identify the top 10 most common third-party requests and cookies from the top 1000 most frequented web sites and record their number of occurances. For the definition of this project, I consider a third-party entity one that does not share the same second-level domain as the intended site. For example, when visiting google.com, ads.google.com is not a third-party since it has the same second level domain (google) as google.com. However, doubleclick.net is considered a third-party to google.com.
 
 **Objective:** To identify the most common third-party cookies and requests accessed by the top 1000 most frequented websites and their purpose.
 
